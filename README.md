@@ -1,1 +1,2 @@
 # YOLO_pose_detection
+This project demonstrates human pose detection using YOLOv8 and MediaPipe in Python. It provides a Google Colab notebook to load custom image datasets, read human annotations in JSON format, and perform pose estimation with YOLOv8. The workflow includes installing dependencies, loading models, processing images, and extracting pose or face mesh landmarks for visualization and further analysis. 
